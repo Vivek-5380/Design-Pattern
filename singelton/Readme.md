@@ -32,4 +32,4 @@ In the [Singelton.java](vscode-file://vscode-app/c:/Users/HP/AppData/Local/Progr
 
 ## Reference
 
-* **Source File** : Refer to [Singelton.java](vscode-file://vscode-app/c:/Users/HP/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) for the full implementation details of the Singleton design pattern in this project.
+* **Source File** : Refer to [Singelton.java](vscode-file://vscode-app/c:/Users/HP/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html) for the full implementation details & Code of the Singleton design pattern in this project.
